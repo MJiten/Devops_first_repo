@@ -1,3 +1,4 @@
 HI 
 How are u
 I am fine
+Echo "I want second commit "
